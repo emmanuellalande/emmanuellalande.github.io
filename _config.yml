@@ -22,8 +22,8 @@ highlight_theme: default # "default" (default), "tomorrow", "tomorrow-night", "t
 url     : https://www.elalande.com # the base hostname & protocol for your site e.g. https://www.someone.com
 baseurl : # does not include hostname
 title   : Emmanuel Lalande
-description: > # this means to ignore newlines until "Language & timezone"
-  Emmanuel Lalande - Software Engineer
+description: Emmanuel Lalande - Software Engineer # `>` this means to ignore newlines until "Language & timezone"
+
 ## => Language and Timezone
 ##############################
 lang: # the language of your site, default as "en"
