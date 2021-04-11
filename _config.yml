@@ -24,8 +24,6 @@ baseurl : # does not include hostname
 title   : Emmanuel Lalande
 description: > # this means to ignore newlines until "Language & timezone"
   Emmanuel Lalande - Software Engineer
-
-
 ## => Language and Timezone
 ##############################
 lang: # the language of your site, default as "en"
