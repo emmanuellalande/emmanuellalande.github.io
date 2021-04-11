@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Emmanuel Lalande - Software Engineer
+title: Home
 article_header:
   type: overlay
   theme: dark
