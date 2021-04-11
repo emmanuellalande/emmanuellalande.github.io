@@ -1,6 +1,6 @@
 layout: article
-title: Page - Article Header Overlay Background Image
-footer: false
+title: Emmanuel Lalande - Software Engineer
 article_header:
   type: overlay
   theme: dark
+footer: false
