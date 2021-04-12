@@ -8,7 +8,7 @@ header:
 article_header:
   type: overlay
   theme: dark
-  background_color: '#203028'
+  background_color: '#640F39'
   background_image:
     gradient: 'linear-gradient(135deg, rgba(100, 15,57 , .4), rgba(214, 199, 58, .4))'
     src: /docs/assets/images/cover_main.jpg
