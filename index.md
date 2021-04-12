@@ -1,7 +1,6 @@
 ---
 layout: article
 title: Home
-show_title: false
 mode: immersive
 header:
   theme: dark
