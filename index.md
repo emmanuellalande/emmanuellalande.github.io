@@ -2,7 +2,6 @@
 layout: article
 title: Home
 mode: immersive
-show_excerpt: true
 header:
   theme: dark
 article_header:
