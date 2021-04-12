@@ -10,8 +10,8 @@ article_header:
   theme: dark
   background_color: '#203028'
   background_image:
-    gradient: 'linear-gradient(135deg, rgba(34, 139,87 , .4), rgba(139, 34, 139, .4))'
-    src: /docs/assets/images/cover3.jpg
+    gradient: 'linear-gradient(135deg, rgba(100, 15,57 , .4), rgba(214, 199, 58, .4))'
+    src: /docs/assets/images/cover_main.jpg
 footer: false
 ---
 Thanks for visiting. Until next time.
